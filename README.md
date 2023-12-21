@@ -1,23 +1,23 @@
-# MikroC - Proteus Projeleri
+# MikroC - Proteus Projects
 
-Bu depo, MikroC programlama dili ve Proteus simülasyon ortamı kullanılarak geliştirilen projeleri içermektedir. Projelerde LCD ekran, gaz sensörü, sıcaklık sensörü, ses sensörü, motor sensörü ve LED gibi bileşenler kullanılmıştır.
+This repository contains projects developed using the MikroC programming language and the Proteus simulation environment. The projects involve components such as LCD display, gas sensor, temperature sensor, sound sensor, motor sensor, and LED.
 
-## Projelerin İçeriği
+## Project Contents
 
-1. **LCD Ekran ile Mesaj Gönderme**: MikroC ve Proteus kullanarak LCD ekran üzerine metin mesajları gönderme.
+1. **Sending Messages to LCD Display**: Sending text messages to an LCD display using MikroC and Proteus.
 
-2. **Gaz Sensörü ile Hava Kalitesi Kontrolü**: Gaz sensörü kullanılarak hava kalitesini ölçme ve belirli koşullarda uyarı gönderme.
+2. **Air Quality Control with Gas Sensor**: Measuring air quality using a gas sensor and sending alerts under certain conditions.
 
-3. **Sıcaklık Sensörü ile Ortam Sıcaklığı Ölçümü**: Sıcaklık sensörü ile çevresel sıcaklığı ölçme ve ekranda görüntüleme.
+3. **Temperature Measurement with Temperature Sensor**: Measuring environmental temperature with a temperature sensor and displaying it on the screen.
 
-4. **Ses Sensörü ile Ses Algılama**: Ses sensörü kullanarak çevredeki sesleri algılama ve belirli bir eşiği aşan durumlarda tepki verme.
+4. **Sound Detection with Sound Sensor**: Detecting sounds in the surroundings using a sound sensor and responding when surpassing a certain threshold.
 
-5. **Motor Sensörü ile Motor Kontrolü**: Motor sensörü kullanarak bir motoru kontrol etme ve belirli bir senaryoya göre çalıştırma.
+5. **Motor Control with Motor Sensor**: Controlling a motor using a motor sensor and running it according to a specific scenario.
 
-6. **LED Kontrolü ve Görselleştirme**: LED'leri kontrol etme ve belirli durumları görsel olarak temsil etme.
+6. **LED Control and Visualization**: Controlling LEDs and visually representing specific conditions.
 
-## Video Örnek Youtube
+## Video Example on YouTube
 
-[![MikroC - Proteus Projeleri](https://img.youtube.com/vi/jUAMfCC2F58/0.jpg)](https://www.youtube.com/watch?v=jUAMfCC2F58)
+[![MikroC - Proteus Projects](https://img.youtube.com/vi/jUAMfCC2F58/0.jpg)](https://www.youtube.com/watch?v=jUAMfCC2F58)
 
-Videoyu izlemek için [buraya tıklayın](https://www.youtube.com/watch?v=jUAMfCC2F58).
+Click [here](https://www.youtube.com/watch?v=jUAMfCC2F58) to watch the video.
