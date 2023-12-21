@@ -16,7 +16,7 @@ Bu depo, MikroC programlama dili ve Proteus simülasyon ortamı kullanılarak ge
 
 6. **LED Kontrolü ve Görselleştirme**: LED'leri kontrol etme ve belirli durumları görsel olarak temsil etme.
 
-## Video Örnek
+## Video Örnek Youtube
 
 [![MikroC - Proteus Projeleri](https://img.youtube.com/vi/jUAMfCC2F58/0.jpg)](https://www.youtube.com/watch?v=jUAMfCC2F58)
 
